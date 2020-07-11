@@ -1,0 +1,10 @@
+Task: m2u, Adaptation training Iter:1/30; Accuracy = 98.01%
+Task: m2u, Adaptation training Iter:2/30; Accuracy = 98.23%
+Task: m2u, Adaptation training Iter:3/30; Accuracy = 98.55%
+Task: m2u, Adaptation training Iter:4/30; Accuracy = 98.44%
+Task: m2u, Adaptation training Iter:5/30; Accuracy = 98.66%
+Task: m2u, Adaptation training Iter:6/30; Accuracy = 98.92%
+Task: m2u, Adaptation training Iter:7/30; Accuracy = 98.87%
+Task: m2u, Adaptation training Iter:8/30; Accuracy = 98.76%
+Task: m2u, Adaptation training Iter:9/30; Accuracy = 98.98%
+Task: m2u, Adaptation training Iter:10/30; Accuracy = 98.87%
